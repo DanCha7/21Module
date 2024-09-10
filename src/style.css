@@ -1,0 +1,10 @@
+:root {
+  font-family: "Log";
+
+  --green: rgb(67, 136, 109);
+}
+
+@font-face {
+  font-family: "log";
+  src: url("/src/components/fonts/DelaGothicOne-Regular.ttf");
+}
